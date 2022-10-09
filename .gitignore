@@ -8,4 +8,4 @@ build/side.txt
 *.doc
 
 venv
-
+__pycache__
