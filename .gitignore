@@ -9,3 +9,4 @@ build/side.txt
 
 venv
 __pycache__
+.vscode
